@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Sidebar from './components/Sidebar';
 import Speed from './components/Speed';
@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
- 
+
       <Sidebar />
       <Speed />
       {/* <Category /> */}
